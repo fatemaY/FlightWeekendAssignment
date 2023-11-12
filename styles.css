@@ -1,0 +1,44 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 40px;
+  }
+  
+  .container {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    width: 60rem;
+    margin: 0 auto;
+  }
+
+  #addFlightForm{
+    width:500px;
+    background : #ffffff;
+    border-radius: 5px ;
+    border :1px solid #ddd;
+    text-align: center;
+    padding : 10px;
+    margin :25px;
+  }
+ .flightscontainer{
+    width:50rem;
+    background : #ffffff;
+    border-radius: 5px ;
+    border :1px solid #ddd;
+    text-align: center;
+    padding : 10px;
+    margin :25px;
+ }
+.cartcontainer{
+  width:40rem;
+  background : #ffffff;
+  border-radius: 5px ;
+  border :1px solid #ddd;
+  text-align: center;
+  padding : 10px;
+  margin :25px;
+}
